@@ -1,6 +1,6 @@
 # SWP Web2
 ### Basics
-* [] 02 Selectors
+* [x] [02 Selectors](basics/02_Selectors)
 * [] 03 Position
 * [] 04 CSS Reset
 * [] 05 Box Sizing
