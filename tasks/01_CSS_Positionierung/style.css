@@ -1,0 +1,38 @@
+div.fix {
+    height: 50px;
+    width: 50px;
+    top: 0;
+    right: 0;
+    position: fixed;
+    background-color: red;
+}
+div.title {
+    height: 360px;
+    width: 460px;
+    margin: 20px;
+    background-color: deepskyblue;
+    position: relative;
+}
+div.title h1 {
+    margin: 20px;
+}
+div.title .box {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    height: 160px;
+    width: 160px;
+    background-color: brown;
+}
+.items {
+    display: flex;
+    background-color: yellow;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.items .item {
+    margin: 20px;
+    height: 50px;
+    width: 50px;
+    background-color: green;
+}
