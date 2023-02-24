@@ -9,4 +9,4 @@
 * [x] [08 Responsiveness](basics/08_Responsiveness)
 * [x] [09 CSS Units](basics/09_CSSUnits)
 * [x] [10 CSS Variables](basics/10_Variables)
-* [] 11 Bootstrap
+* [x] [11 Bootstrap](basics/11_Bootstrap)
