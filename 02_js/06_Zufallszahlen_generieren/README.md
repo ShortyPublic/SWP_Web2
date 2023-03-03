@@ -1,0 +1,1 @@
+Wird bereits in [05_If_Bedingung](../05_If_Bedingung) verwendet.
