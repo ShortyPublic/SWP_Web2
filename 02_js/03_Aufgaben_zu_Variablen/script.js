@@ -14,6 +14,7 @@ let priceSingleBanana = bananaPricePerKilo / bananasPerKilo
 let priceSingleApple = applePricePerKilo / applesPerKilo
 
 console.log(`About ${bananasPerKilo} bananas per kilo and ${applesPerKilo} apples per kilo.`)
+console.log(`Price per Banana ${priceSingleBanana}; Price per Apple ${priceSingleApple}`)
 
 console.log(`8 Äpfel kosten ${priceSingleApple * 8}`)
 console.log(`17 Bananen kosten ${priceSingleBanana * 17}`)
