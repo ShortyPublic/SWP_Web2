@@ -1,0 +1,36 @@
+html {
+    background-color: #3235d0;
+}
+
+input {
+    display: flex;
+    padding: 10px;
+    width: 40%;
+    height: 40px;
+    font-size: 40px;
+    border: none;
+}
+
+.box {
+    margin: 3px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+button {
+    background-color: white;
+    font-size: 40px;
+    border: none;
+    margin: 3px;
+    width: 100%;
+    padding: 10px;
+}
+
+span {
+    display: block;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    margin-left: 50%;
+    transform: translateX(-50%);
+}
