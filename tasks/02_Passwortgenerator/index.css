@@ -1,0 +1,20 @@
+label {
+    display: block;
+}
+label {
+    padding: 10px;
+    background-color: lawngreen;
+}
+button, label {
+    margin: 20px;
+}
+input[type="number"] {
+    border: 1px solid grey;
+}
+button {
+    border: 1px solid grey;
+    width: 100px;
+    height: 40px;
+    background-color: blue;
+    color: white;
+}
